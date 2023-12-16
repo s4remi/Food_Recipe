@@ -10,7 +10,7 @@ Createed by [Ali Saremi](https://github.com/s4remi)
 
 ### Color Palette
 
-![Colo palette]("./assets/colorpalette")
+![color palette ](./assets/colorpalette.png)
 
 ### Fonts
 
