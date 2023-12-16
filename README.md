@@ -1,3 +1,50 @@
+# FoodApp.
+
+### Objective
+
+this is an extra project for NEU. I build a full stack application with next.js vanilla java script with SQLlit for database. Food app is a sharing application for food recipes which gives a people an opportunity to, share the recipes, it pictures,how to make the food.
+
+### Author
+
+Createed by [Ali Saremi](https://github.com/s4remi)
+
+### Color Palette
+
+![Colo palette]()
+
+### Fonts
+
+I have decided that I need to express a delightful and modern feeling for my MoneyMaster application, I need to use a vivid and cheerful fonts. Among many sans-serif fonts, I have chosen 'Archivo' for headers and 'Open Sans' for paragraph font.
+![font](./data/font.png)
+
+### Slides & Video & Design Document & Deployment Link
+
+[Slides Here V1.0](https://docs.google.com/presentation/d/1EPZiVV4H_JwtapBzgIOujojJo_Lgmi68OzKlkjXnTdI/edit?usp=sharing)
+
+[Design Document]()
+
+## ScreenShots
+
+[Screenshots with accessability score]()
+
+## Demo V1.0
+
+[![Demo](https://img.youtube.com/vi/5HiuIU3SyY.jpg)](https://www.youtube.com/watch?v=_5HiuIU3SyY)
+
+## Installation
+
+To set up food app, you'll need the following:
+
+Clone the repository: git@github.com:s4remi/Food_Recipe.git
+
+### External Libraries:
+
+    Bootstrap is included for styling in the HTML file.
+
+## License
+
+This project is licensed under the MIT license.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
