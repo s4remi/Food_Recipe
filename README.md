@@ -2,7 +2,7 @@
 
 ### Objective
 
-this is an extra project for NEU. I build a full stack application with next.js vanilla java script with SQLlit for database. Food app is a sharing application for food recipes which gives a people an opportunity to, share the recipes, it pictures,how to make the food.
+this is an extra project for course 5610 NEU university . I build a full stack application with next.js vanilla java script with SQLlit for database. Food app is a sharing application for food recipes which gives a people an opportunity to, share the recipes, it pictures,how to make the food.
 
 ### Author
 
@@ -33,7 +33,8 @@ I have decided that I need to express a delightful and modern feeling for my Mon
 
 ## ScreenShots
 
-[Screenshots with accessability score](./assets/screenshot1.png)
+![Screenshots without accessability ](./assets/screenshot1.png)
+![Screenshots without accessibility ](./assets/screenshot2.png)
 
 ## Demo V1.0
 
