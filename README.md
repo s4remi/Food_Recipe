@@ -23,6 +23,14 @@ I have decided that I need to express a delightful and modern feeling for my Mon
 
 [Design Document]()
 
+## Code walkthrough part 1:
+
+[![code walk through part 1](https://img.youtube.com/vi/v=4Qp9swMuFdc.jpg)](https://www.youtube.com/watch?v=4Qp9swMuFdc)
+
+## Part 2:
+
+[![code walkthrough part 2](https://img.youtube.com/vi/v=yY5mgzHjW7M.jpg)](https://www.youtube.com/watch?v=yY5mgzHjW7M)
+
 ## ScreenShots
 
 [Screenshots with accessability score]()
