@@ -19,7 +19,7 @@ I have decided that I need to express a delightful and modern feeling for my Mon
 
 ### Slides & Video & Design Document & Deployment Link
 
-[Slides Here V1.0](https://docs.google.com/presentation/d/1EPZiVV4H_JwtapBzgIOujojJo_Lgmi68OzKlkjXnTdI/edit?usp=sharing)
+[Slides Here V1.0](https://docs.google.com/presentation/d/1I4QXTGN8Cr7uGZmi4jpsKrviu5BcBpyd8YvkVkVrOUI/edit?usp=sharing)
 
 [Design Document]()
 
