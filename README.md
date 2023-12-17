@@ -14,8 +14,11 @@ Createed by [Ali Saremi](https://github.com/s4remi)
 
 ### Fonts
 
-I have decided that I need to express a delightful and modern feeling for my MoneyMaster application, I need to use a vivid and cheerful fonts. Among many sans-serif fonts, I have chosen 'Archivo' for headers and 'Open Sans' for paragraph font.
-![font](./data/font.png)
+I have decided that, I need to use a vivid and cheerful fonts. Among many sans-serif fonts, I have chosen
+
+![font](./assets/font3.png)
+![font](./assets/font1.png)
+![font](./assets/font2.png)
 
 ### Slides & Video & Design Document & Deployment Link
 
